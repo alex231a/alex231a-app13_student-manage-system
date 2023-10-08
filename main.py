@@ -286,3 +286,4 @@ main_window = MainWindow()
 main_window.show()
 main_window.load_data()
 sys.exit(app.exec())
+
